@@ -1,0 +1,4 @@
+logging:
+  level:
+    org.springframefork: info
+    org.springframework.web.servlet: debug
